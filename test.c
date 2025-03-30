@@ -3,7 +3,8 @@
 
 int main()
 {
-
-	return 0;
+	printf("1234567890");
+	printf("修改提交");
+	
 }
 
